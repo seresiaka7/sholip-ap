@@ -14,9 +14,9 @@ const Navbar = () => {
 
                 <div >
                 <ul className="flex justify-end items-end flex-1  mx-10 gap-10 ">
-                   <li className='hover:bg-white hover:border-solid hover:rounded-md p-2 hover:text-black hover:italic hover:shadow-lg shadow-white '> Home </li>
-                   <li className='hover:bg-white hover:border-solid hover:rounded-md p-2 hover:text-black  hover:italic'>Services </li>
-                   <li className='hover:bg-white hover:border-solid hover:rounded-md p-2 hover:text-black hover:italic'>About </li>
+                   <li className='hover:bg-white hover:border-solid hover:rounded-md p-2 hover:text-black hover:italic hover:shadow-lg shadow-white '> Revendeurs </li>
+                   <li className='hover:bg-white hover:border-solid hover:rounded-md p-2 hover:text-black  hover:italic'>Particuliers </li>
+                   <li className='hover:bg-white hover:border-solid hover:rounded-md p-2 hover:text-black hover:italic'>Carrières </li>
                 </ul>
                 </div>
                 </nav>
