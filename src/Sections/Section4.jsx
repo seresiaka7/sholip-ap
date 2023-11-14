@@ -5,7 +5,7 @@ const Section4 = () => {
   return (
     <div>
     <div className=' mx-40 my-2'>
-<div className=' flex justify-center align-center items-end  bg-cover  bg-slate-100 rounded-3xl'  >
+<div className=' flex justify-center align-center items-end  bg-cover  bg-slate-100 rounded-3xl shadow-md'   >
 
 <div className='mt-10  '> 
 

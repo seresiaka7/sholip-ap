@@ -16,12 +16,12 @@ const Section5 = () => {
              retrouvez le cours de votre vie rapidement.
 
             </div>
-            <div className='flex justify-between items-center gap-10 my-9 pt-8'>
+            <div className='flex justify-between items-center gap-10 my-9 pt-8 bg-slate-100 rounded-lg p-6  shadow-2xl'>
                    <div className="flex flex-col justify-middle items-center" >
                          <div>
-                            <img src={Simple} width={100} height={80}/>
+                            <img  className=" rounded-full" src={Simple} width={100} height={80}/>
                          </div>
-                         <div>
+                         <div className='font-bold mb-2 p-3'>
                          Simple
                          </div>
                          <div>
@@ -30,9 +30,9 @@ const Section5 = () => {
                    </div>
                    <div className="flex flex-col justify-middle items-center">
                         <div>
-                            <img src={Time}  width={100} height={80}/>
+                            <img  className=" rounded-full"src={Time}  width={100} height={80}/>
                          </div>
-                         <div>
+                         <div  className='font-bold mb-2 p-3'>
                           Rapide
                          </div>
                          <div>
@@ -43,10 +43,10 @@ const Section5 = () => {
                    </div>
                    <div className="flex flex-col justify-middle items-center">
                         <div>
-                            <img src={Pos} width={100} height={80}
+                            <img  className=" rounded-full"src={Pos} width={100} height={80}
                             />
                          </div>
-                         <div>
+                         <div className='font-bold mb-2 p-3'>
                          Positif
                          </div>
                          <div>
