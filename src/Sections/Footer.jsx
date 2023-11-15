@@ -10,7 +10,7 @@ const Footer = () => {
             <div className='font-semibold text-3xl pt-5'>
                 Inscrivez-vous dans notre Newsletter 
             </div>
-              <div className='flex '>
+              <div className='flex  '>
              <div className='  rounded-lg p-5 '>
                 <form>
                     <input className=' px-20 w-95 h-20' type="text" placeholder='' />
